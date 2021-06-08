@@ -1,2 +1,2 @@
 # Python-TextMining-SocialNetwork
-Textmining and Social Network Assignments from Python Specialization
+Text mining and Social Network Assignments from Python Specialization
