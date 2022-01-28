@@ -21,6 +21,6 @@ Text mining and Social Network Assignments from Python Specialization
 
 **HITS & Page Rank Algorithm**
 - Blogs&ShoppingWebsiteNetwork.ipynb - explore measures of centrality on two networks, a friendship network in Part 1, and a blog network in Part 2.
-- 
+
 **RandomForestClassifier, MinMaxScaler with network G**
 - NewSalary&ConnectionPredictions.ipynb - Predicting company's email network and employee salary
